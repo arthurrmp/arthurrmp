@@ -14,7 +14,7 @@
   ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-white?style=flat&logoColor=red&logo=microsoft-sql-server)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logoColor=5d2b90&logo=visual-studio)
   
-  - 📖 Learning
+- 📖 Learning
 
   ![Vue.JS](https://img.shields.io/badge/-Vue.JS-white?style=flat&logo=vue.js)
   ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&logoColor=CE412B)
