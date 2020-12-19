@@ -8,6 +8,8 @@
   ![Unity](https://img.shields.io/badge/-Unity-black?logo=unity)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=black)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-40D0FB?logo=adobe-photoshop&logoColor=white)
+  
 - 💻 Working With
 
   ![AngularJS](https://img.shields.io/badge/-AngularJS-B52E31?style=flat&logo=angularjs)
