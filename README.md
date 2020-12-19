@@ -11,6 +11,8 @@
 - 💻 Working With
 
   ![AngularJS](https://img.shields.io/badge/-AngularJS-B52E31?style=flat&logo=angularjs)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=Bootstrap)
+  ![jQuery](https://img.shields.io/badge/-jQuery-0868AC?style=flat&logo=jQuery)
   ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-white?style=flat&logoColor=red&logo=microsoft-sql-server)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logoColor=5d2b90&logo=visual-studio)
   
