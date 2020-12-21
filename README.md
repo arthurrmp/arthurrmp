@@ -4,7 +4,7 @@
 
   ![Ionic](https://img.shields.io/badge/-Ionic-white?style=flat&logo=Ionic)
   ![Angular](https://img.shields.io/badge/-Angular-darkred?style=flat&logo=Angular)
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat&logo=node.js)
+  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
   ![Unity](https://img.shields.io/badge/-Unity-black?logo=unity)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=black)
@@ -20,9 +20,9 @@
   
 - 📖 Learning
 
-  ![Vue.JS](https://img.shields.io/badge/-Vue.JS-white?style=flat&logo=vue.js)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-white?style=flat&logo=vue.js)
   ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&logoColor=CE412B)
-  ![Python](https://img.shields.io/badge/-Python-303030?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python)
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=arthurrmp&count_private=true&show_icons=true&theme=dark">
