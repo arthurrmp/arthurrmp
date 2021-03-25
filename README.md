@@ -30,5 +30,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrmp&theme=dark"> 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-arthurrpm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurrpm/)](https://www.linkedin.com/in/arthurrpm/)
+<!--[![Linkedin Badge](https://img.shields.io/badge/-arthurrpm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurrpm/)](https://www.linkedin.com/in/arthurrpm/)-->
 [![Gmail Badge](https://img.shields.io/badge/-arthurrenat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurrenat@gmail.com)](mailto:arthurrenat@gmail.com)
