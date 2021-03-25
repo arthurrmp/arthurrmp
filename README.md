@@ -21,8 +21,7 @@
 - 📖 Learning
 
   ![Vue.js](https://img.shields.io/badge/-Vue.js-white?style=flat&logo=vue.js)
-  ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&logoColor=CE412B)
-  ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python)
+  
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=arthurrmp&count_private=true&show_icons=true&theme=dark">
