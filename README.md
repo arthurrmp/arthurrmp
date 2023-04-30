@@ -3,7 +3,7 @@
 <p>
 Hello! I'm software developer with 6 years of experience. 
 
-I'm particularly captivated by ***frontend development***, and my go-to technologies includes:
+I'm particularly captivated by process of crafting visually appealing and user-friendly applications through ***frontend development***, and my go-to technologies includes:
 </p>  
   
 <ul>
@@ -60,7 +60,7 @@ I'm particularly captivated by ***frontend development***, and my go-to technolo
 </ul>
 
 <p>
-I enjoy the process of crafting visually appealing and user-friendly web and mobile applications and I'm always open to connecting and exploring new opportunities, so feel free to reach out!  
+I'm always open to connecting and exploring new opportunities, so feel free to reach out!  
 </p>  
 
 ---
@@ -73,7 +73,4 @@ I enjoy the process of crafting visually appealing and user-friendly web and mob
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
-
-
-
 </p>
