@@ -59,11 +59,11 @@ I'm particularly captivated by process of crafting visually appealing and user-f
   </li>
 </ul>
 
+---
+
 <p>
 I'm always open to connecting and exploring new opportunities, so feel free to reach out!  
 </p>  
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthurrpm">
