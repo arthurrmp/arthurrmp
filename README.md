@@ -11,7 +11,7 @@
 **[khada](https://modelviewer.lol)** — 3d model viewer for league of legends with AR  
 *5M+ monthly views. i use this one to learn about 3d on the web.*
 
-**[lukai](https://lukai-web.arthurrenat.workers.dev/)** — get icons for league of legends in a beutiful interface and great ux
+**[lukai](https://lukai-web.arthurrenat.workers.dev)** — see and download icons for league of legends in a beautiful interface and great ux
 
 #### ai
 
@@ -21,7 +21,7 @@
 
 **[speedra](https://speedra.arthurmachado.dev)** — beautiful liquid glass speedometer iOS app
 
-**[gltf2usdz.online](https://gltf2usdz.online)** — convert gltf/glb models for apple AR (usdz). open source. simple and fast.
+**[gltf2usdz.online](https://gltf2usdz.online)** — convert gltf/glb models for apple AR (usdz). open source, simple and fast.
 
 **yearling** - satisfying and fast way of registering memories through your year (in progress)
 
