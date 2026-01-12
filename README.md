@@ -31,4 +31,4 @@
 
 [arthurmachado.dev](https://arthurmachado.dev) · [linkedin](https://linkedin.com/in/arthurrpm) · [cal.com/arthurrmp](https://cal.com/arthurrmp)
 
-*always down to chat* ☕
+*always down to chat*
