@@ -1,6 +1,6 @@
 # hey, i'm arthur 👋
 
-<!-- COUNTDOWN_START -->in 140 days<!-- COUNTDOWN_END --> trying to find my way in the "indie dev" life and recover from burn out. i like making things that feel good to use.
+<!-- COUNTDOWN_START -->planning to move to new a country in 140 days<!-- COUNTDOWN_END --> trying to find my way in the "indie dev" life and recover from burn out. i like making things that feel good to use.
 
 ---
 

@@ -13,9 +13,9 @@ function updateCountdown() {
   
   let statusText = '';
   if (diffDays > 0) {
-    statusText = `in ${diffDays} days`;
+    statusText = `planning to move to new a country in ${diffDays} days`;
   } else {
-    statusText = 'currently away';
+    statusText = 'currently away since 2026-06-01';
   }
 
   console.log(`Current date: ${now.toISOString()}`);
