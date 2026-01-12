@@ -13,7 +13,7 @@ function updateCountdown() {
   
   let statusText = '';
   if (diffDays > 0) {
-    statusText = `in ${diffDays} days...`;
+    statusText = `in ${diffDays} days`;
   } else {
     statusText = 'currently away';
   }
