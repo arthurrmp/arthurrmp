@@ -13,7 +13,7 @@ function updateCountdown() {
   
   let statusText = '';
   if (diffDays > 0) {
-    statusText = `planning to move to new a country in ${diffDays} days`;
+    statusText = `planning to move to a new country in ${diffDays} days`;
   } else {
     statusText = 'currently away since 2026-06-01';
   }
