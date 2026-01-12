@@ -1,0 +1,10 @@
+{
+  "name": "arthur-profile",
+  "version": "1.0.0",
+  "description": "Standalone profile with automatic countdown",
+  "scripts": {
+    "update-countdown": "node scripts/update-countdown.js"
+  },
+  "author": "Arthur Machado",
+  "license": "MIT"
+}
