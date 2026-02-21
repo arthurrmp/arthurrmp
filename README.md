@@ -24,11 +24,3 @@
 **[gltf2usdz.online](https://gltf2usdz.online)** — convert gltf/glb models for apple AR (usdz). open source, simple and fast.
 
 **yearling** - satisfying and fast way of registering memories through your year (in progress)
-
----
-
-### 📍 find me
-
-[arthurmachado.dev](https://arthurmachado.dev) · [linkedin](https://linkedin.com/in/arthurrpm) · [cal.com/arthurrmp](https://cal.com/arthurrmp)
-
-*always down to chat*
