@@ -8,10 +8,10 @@
 
 #### gaming
 
-**[khada](https://modelviewer.lol)** — 3d model viewer for league of legends with AR  
+**[khada - modelviewer for lol](https://modelviewer.lol)** — 3d model viewer for league of legends with AR  
 *5M+ monthly views. i use this one to learn about 3d on the web.*
 
-**[lukai](https://lukai-web.arthurrenat.workers.dev)** — see and download icons for league of legends in a beautiful interface and great ux
+**[lukai - icon viewer for lol](https://iconviewer.lol)** — see and download icons for league of legends in a beautiful interface and great ux
 
 #### ai
 
