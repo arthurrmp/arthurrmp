@@ -23,4 +23,4 @@
 
 **[gltf2usdz.online](https://gltf2usdz.online)** — convert gltf/glb models for apple AR (usdz). open source, simple and fast.
 
-**yearling** - satisfying and fast way of registering memories through your year (in progress)
+**[diskrush](https://github.com/arthurrmp/diskrush)** — Rust-based TUI disk speed benchmark.
