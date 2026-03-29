@@ -27,4 +27,6 @@
 
 **[portcrush](https://github.com/arthurrmp/portcrush)** — Rust-based TUI port manager.
 
+**[QuickLookGLTF](https://github.com/arthurrmp/QuickLookGLTF)** — macOS Quick Look extension for previewing GLTF files.
+
 
