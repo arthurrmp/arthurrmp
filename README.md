@@ -29,4 +29,4 @@
 
 **[QuickLookGLTF](https://github.com/arthurrmp/QuickLookGLTF)** — macOS Quick Look extension for previewing GLTF files.
 
-
+**[hs80-macos-menu-bar](https://github.com/arthurrmp/hs80-macos-menu-bar)** - iCUE lightweight replacement for macOS for the HS80 Wireless headset
