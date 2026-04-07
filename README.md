@@ -1,6 +1,7 @@
 # hey, i'm arthur 👋
+<!-- COUNTDOWN_START planning to move to a new country in 55 days (2026-06-01)<!-- COUNTDOWN_END -->
 
-<!-- COUNTDOWN_START -->planning to move to a new country in 55 days (2026-06-01)<!-- COUNTDOWN_END -->. i like making things that feel good to use.
+i like making things that feel good to use.
 
 ---
 
